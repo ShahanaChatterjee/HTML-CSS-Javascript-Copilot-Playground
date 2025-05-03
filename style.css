@@ -14,7 +14,8 @@ header {
 header h1 {
   font-family: 'Prata', serif;
   font-size: 2 rem;
-  margin: 0;
+  padding: 2 rem;
+  margin: 2 rem;
   color: #fff;
 }
 
@@ -28,7 +29,7 @@ header h1 {
   max-width: 900px;
   margin: 0% auto;
   background: #202020;
-  padding: 2rem;
+  padding: 1 rem;
   border-radius: 10px;
 }
 
