@@ -20,8 +20,8 @@ header h1 {
 
 .hero-img {
   width: 50%;
-  max-height: 600px;
-  object-fit: contain;
+  height: auto;
+  margin: auto;  
 }
 
 .container {
