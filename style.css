@@ -27,7 +27,8 @@ header h1 {
 
 .container {
   max-width: 900px;
-  margin: 0% auto;
+  min-height: auto;
+  margin: 0 rem;
   background: #2f2e2e;
   padding: 2rem;
   border-radius: 10px;
