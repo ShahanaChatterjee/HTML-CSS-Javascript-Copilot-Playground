@@ -19,9 +19,8 @@ header h1 {
 }
 
 .hero-img {
-  width: 900px;
+  width: 80%;
   max-height: 600px;
-  display: block;
 }
 
 .container {
