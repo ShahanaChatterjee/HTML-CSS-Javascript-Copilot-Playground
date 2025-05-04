@@ -27,17 +27,16 @@ header h1 {
 
 .container {
   max-width: 900px;
-  min-height: auto;
   margin: 0 rem;
   background: #2f2e2e;
   padding: 2rem;
   border-radius: 10px;
-  box-shadow: #807b76;
+  box-shadow: #716962;
 }
 
 h2 {
   font-family: 'Prata', serif;
-  color: #fff;
+  color: #ff963a;
   margin-top: 2rem;
 }
 
